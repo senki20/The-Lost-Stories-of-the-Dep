@@ -23,9 +23,11 @@ Follow the story of our Knigths trying to save the city of Urghstin in this "epi
 
 Animations:
 https://www.unrealengine.com/marketplace/en-US/product/close-combat-swordsman
+
 (Fully functional project but i only kept the animations)
 
 Builldings:
 https://www.unrealengine.com/marketplace/en-US/product/fantasy-and-medieval-artchitecture-kit
+
 (Not used yet)
 
