@@ -8,12 +8,12 @@ Follow the story of our Knigths trying to save the city of Urghstin in this "epi
 
 ### version 0.12
 
--Added Health Bar
--Added Ragdoll physics on death
--Added Main Menu
--Added Tutorial Map
--Added new sword (not in use yet)
--Fixed Sword sometimes not triggering hit
+- Added Health Bar
+- Added Ragdoll physics on death
+- Added Main Menu
+- Added Tutorial Map
+- Added new sword (not in use yet)
+- Fixed Sword sometimes not triggering hit
 
 ### version 0.11
 
