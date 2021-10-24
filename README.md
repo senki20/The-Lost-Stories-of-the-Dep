@@ -6,6 +6,17 @@ Follow the story of our Knigths trying to save the city of Urghstin in this "epi
 
 ## Updates
 
+### version 0.14
+
+-Added Climbing Animations and Mechanic
+
+### version 0.13
+
+- Added AI enemy
+- Fixed Sword not recognising hit
+- You can now cancel Dodge with an Attack
+- 3 Different difficulty AI
+
 ### version 0.12
 
 - Added Health Bar
