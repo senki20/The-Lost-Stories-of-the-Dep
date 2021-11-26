@@ -2,6 +2,9 @@
 
 Follow the story of our Knigths trying to save the city of Urghstin in this "epic" dungeon crawler game.
 
+##Release
+
+You can download version 1.0 [here](https://github.com/senki20/The-Lost-Stories-of-the-Dep/releases/tag/v1.0)
 
 
 ## Updates
