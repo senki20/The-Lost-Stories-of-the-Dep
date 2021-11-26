@@ -16,6 +16,7 @@ Follow the story of our Knigths trying to save the city of Urghstin in this "epi
 - Fixed Sword not recognising hit
 - You can now cancel Dodge with an Attack
 - 3 Different difficulty AI
+- Player Death
 
 ### version 0.12
 
